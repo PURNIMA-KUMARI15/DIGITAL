@@ -11,6 +11,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
 
 
 }
@@ -127,5 +130,6 @@
     font-size: 70px;
     border: 2px solid transparent;
     border-image: linear-gradient(45deg, #2563eb, #ec4899) 1;
+
 
 }
